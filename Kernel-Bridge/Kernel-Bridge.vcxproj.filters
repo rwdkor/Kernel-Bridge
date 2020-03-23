@@ -202,6 +202,12 @@
     <ClInclude Include="API\PteUtils.h">
       <Filter>API</Filter>
     </ClInclude>
+    <ClInclude Include="..\CommonTypes\VMX.h">
+      <Filter>CommonTypes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonTypes\Registers.h">
+      <Filter>CommonTypes</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="Exports.def">
